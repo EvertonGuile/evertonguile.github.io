@@ -1,6 +1,6 @@
 # evertonguile.github.io
 
-[![GitHub](https://img.shields.io/badge/GitHub-Visite%20meu%20GitHub-blue?logo=github)](https://evertonguile.github.io/)
+[![GitHub](https://img.shields.io/badge/GitHub-Visite%20meu%20Portifólio-blue?logo=github)](https://evertonguile.github.io/){:target="_blank"}
 
 Curriculo do Jornada Dev
 
